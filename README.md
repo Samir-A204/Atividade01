@@ -31,3 +31,7 @@ Código multilinhas usar ```
 
 ## Imagem
 
+![the-walter](https://github.com/user-attachments/assets/774c86cd-213a-41d3-84c2-186aa63e3b18)
+
+
+[Visite meu Github](https://github.com/Samir-A204)
